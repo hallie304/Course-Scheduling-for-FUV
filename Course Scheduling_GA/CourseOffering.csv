@@ -1,0 +1,86 @@
+﻿Course Title,Course ID,Capacity,Course Instructors,Category,Offering Type
+Introduction to Visual Studies,ARTS101_Fall2022_S01,50,Tram Luong,E1,On-campus
+Introduction to Visual Studies,ARTS101_Fall2022_S02,50,Richard Streitmatter-Tran,E1,On-campus
+Introduction to Art History and Theory,ARTS102_Fall2022_S01,50,Pamela Corey,E1,On-campus
+Video and Film Production,ARTS104_Fall2022_S01,25,Aaron Toronto,E1,On-campus
+2D/3D Foundations,ARTS107_Fall2022_S01,25,Richard Streitmatter-Tran,E1,On-campus
+Principles of Acting,ARTS206_Fall2022_S01,25,Aaron Toronto,E1,On-campus
+Sound Art,ARTS303_Fall2022_S01,30,Jacqueline Hoang-Nguyen,C1,On-campus
+Independent Study: Advanced Readings in Theory,ARTS398_Fall2022_S01,10,Pamela Corey,EL,On-campus
+Global Humanities and Social Change,CORE101_Fall2022_S01,45,Tobias Burgers,CORE,On-campus
+Global Humanities and Social Change,CORE101_Fall2022_S02,45,Mark Frank,CORE,On-campus
+Global Humanities and Social Change,CORE101_Fall2022_S03,45,Matthew McDonald,CORE,On-campus
+Global Humanities and Social Change,CORE101_Fall2022_S04,45,Ian Kalman,CORE,On-campus
+Global Humanities and Social Change,CORE101_Fall2022_S05,45,Linda Zhang,CORE,On-campus
+Global Humanities and Social Change,CORE101_Fall2022_S06,45,Elsa Costa,CORE,On-campus
+Quantitative Reasoning for a Digital Age,CORE103_Fall2022_S01,45,Phan Tuan Ngoc,CORE,On-campus
+Quantitative Reasoning for a Digital Age,CORE103_Fall2022_S02,45,Phan Thanh Trung,CORE,On-campus
+Quantitative Reasoning for a Digital Age,CORE103_Fall2022_S03,45,Huynh Viet Linh,CORE,On-campus
+Quantitative Reasoning for a Digital Age,CORE103_Fall2022_S04,45,Lan Nguyen,CORE,On-campus
+Quantitative Reasoning for a Digital Age,CORE103_Fall2022_S05,45,Khieu Van Hoang,CORE,On-campus
+Scientific Inquiry,CORE104_Fall2022_S01,45,Nguyen Thi Hong Dung,CORE,On-campus
+Scientific Inquiry,CORE104_Fall2022_S02,45,Nguyen Thi Trang,CORE,On-campus
+Scientific Inquiry,CORE104_Fall2022_S03,45,Nguyen Thi Huyen Trang,CORE,On-campus
+Scientific Inquiry,CORE104_Fall2022_S04,45,Nguyen Giao Hoa,CORE,On-campus
+Design and Systems Thinking,CORE105_Fall2022_S01,30,Truong Trung Kien,CORE,On-campus
+Design and Systems Thinking,CORE105_Fall2022_S02,30,Nguyen Hop Minh,CORE,On-campus
+Design and Systems Thinking,CORE105_Fall2022_S03,30,Phung Manh Duong,CORE,On-campus
+Design and Systems Thinking,CORE105_Fall2022_S04,30,Doan Nhat Minh,CORE,On-campus
+Design and Systems Thinking,CORE105_Fall2022_S05,30,Le Quan,CORE,On-campus
+Computer Science I,CS101_Fall2022_S01,50,Phan Thanh Trung,E4,On-campus
+Algorithm,CS102_Fall2022_S01,50,Huynh Viet Linh,C4,On-campus
+Computer Organization,CS203_Fall2022_S01,40,Truong Trung Kien,E3 E4,On-campus
+Machine Learning for Data Science,CS208_Fall2022_S01,40,Dang Huynh,C4,On-campus
+Network and Computer Security ,CS306_Fall2022_S01,30,Nhut Nguyen,C4,Online
+Introduction to Machine Learning,CS307_Fall2022_S01,30,Vincent Ng,C4,Online
+Advanced Programming Techniques,CS309_Fall2022_S01,30,Synh Ha,C4,On-campus
+Principles of Economics 1,ECON101_Fall2022_S01,50,Lan Nguyen,E2,On-campus
+Principles of Economics 2,ECON103_Fall2022_S01,50,Khieu Van Hoang,E2,On-campus
+Econometrics,ECON209_Fall2022_S01,40,Phan Tuan Ngoc,E2,On-campus
+Economics of Inequality,ECON302_Fall2022_S01,30,Khieu Van Hoang,E2,On-campus
+Behavioural and Experimental Economics,ECON305_Fall2022_S01,30,Graeme Walker,C2,On-campus
+Independent Study: Impacts of (digital) marketing on the success of purpose-driven businesses,ECON398_Fall2022_S01,10,Khieu Van Hoang,C2,On-campus
+Market Research Specialization,ECON398_Fall2022_S02,10,Graeme Walker,C2,On-campus
+Engineering Exploration: Sink or Swim,ENG102_Fall2022_S01,30,Doan Nhat Minh,E3,On-campus
+Product Development,ENG201_Fall2022_S01,25,Le Quan,E3 E4,On-campus
+Intelligent Robot Studio: From Theory to Practice,ENG202_Fall2022_S01,30,Phung Manh Duong,E3 E4,On-campus
+Sensors Measurement and Analysis,ENG204_Fall2022_S01,40,Nguyen Hop Minh,E3,On-campus
+Global History Lab: History of the World,HIS105_Fall2022_S01,50,Antoine Le,E1 E2,Online
+US in the World,HIS108_Fall2022_S01,50,Sean Fear,E1 E2,On-campus
+The Global Vietnam War I,HIS208_Fall2022_S01,40,Sean Fear,E1 E2,On-campus
+History of International Communism,HIS301_Fall2022_S01,30,Vu Minh Hoang,C2 ,On-campus
+Asian Borderlands,HIS304_Fall2022_S01,30,Mark Frank,C2,On-campus
+Race and Empire,HIS306_Fall2022_S01,30,Elsa Costa,C2,On-campus
+Introductory Biology,IS101_Fall2022_S01,50,Nguyen Thi Hong Dung,E3,On-campus
+Environmental Sciences,IS103_Fall2022_S01,50,Nguyen Thi Huyen Trang,E3,On-campus
+Organic Chemistry,IS205_Fall2022_S01,40,Nguyen Thi Trang,C3,On-campus
+Foundations in Literary Studies,LIT101_Fall2022_S01,50,Isadora Wagner,E1,On-campus
+Critical Methods in Literary Studies,LIT103_Fall2022_S01,50,Yen Vu,E1,On-campus
+Film Fiction and the Making of Modern Vietnams,LIT303_Fall2022_S01,30,Yen Vu,C1,On-campus
+Pacific Voyages in Literature & Film,LIT305_Fall2022_S01,30,Isadora Wagner,C1,On-campus
+Calculus,MATH101_Fall2022_S01,50,Nguyen Trung Hieu,E4,On-campus
+Ideas of Math,MATH102_Fall2022_S01,50,Van Truong Son,E4,On-campus
+Linear Algebra,MATH103_Fall2022_S01,50,Nguyen Trung Hieu,E4,On-campus
+Introduction to Data Analysis,MATH105_Fall2022_S01,50,Van Truong Son,E4,On-campus
+Stochastic Calculus,MATH305_Fall2022_S01,30,Le Nhat Tan,C4,On-campus
+Introductory Psychology,PSY101_Fall2022_S01,50,Lan Thi Nguyen,E2,On-campus
+Social Psychology,PSY203_Fall2022_S01,40,Gary Giss,E2,Online
+Personality Psychology,PSY204_Fall2022_S01,40,Hoàng Minh T_ Nga,E2,On-campus
+Introduction to Psychological Disorders Diagnosis & Treatment,PSY205_Fall2022_S01,40,Matthew McDonald,E2,On-campus
+Organizational Psychology,PSY207_Fall2022_S01,40,Lan Thi Nguyen,E2,On-campus
+Counseling Psychology,PSY302_Fall2022_S01,30,Hoàng Minh T_ Nga,E2,On-campus
+Fall 2022 Seminar,SEM301_Fall2022_S01,30,Faculty & Visiting Faculty,SEM,On-campus
+Social Inquiry And the Social Sciences,SOCI102_Fall2022_S01,50,Ian Kalman,E2,On-campus
+Research Methods & Statistics,SOCI105_Fall2022_S01,50,Vu Bich Phuong,E2 E3 E4,On-campus
+Ethnographic Research Methods,SOCI109_Fall2022_S01,50,Tram Luong,E2,On-campus
+Introduction to Science and Technology Studies,SOCI211_Fall2022_S01,40,Tobias Burgers,E2,On-campus
+South Korea: Society and Culture,SOCI212_Fall2022_S01,40,Nankyung Choi,E2,Online
+Women and Politics,SOCI213_Fall2022_S01,40,Nankyung Choi,C2,Online
+Cultural and Intellectual Foundation of Vietnamese Literary Chinese I,VS106_Fall2022_S01,50,Phan Thu Van,E1 E2,On-campus
+Introduction to Champa and Khmer History,VS114_Fall2022_S01,50,Nicolas Weber,E1 E2,On-campus
+The Challenge of Change: Civil Society and Social Movements in Vietnam,VS203_Fall2022_S01,40,Nguyen Thanh Trung,E1 E2,On-campus
+The Legacy of the War in Retrospect I,VS204_Fall2022_S01,20,Nguyen Nam,E1 E2,On-campus
+What Movies Show and Don't Show: Film Adaptations in Asian Contexts,VS210_Fall2022_S01,40,Dao Le Na,E2,On-campus
+Developing Vietnam,VS214_Fall2022_S01,25,Nguyen Nam,E1 E2,On-campus
+Contending Theories of International Relations: A Comprehensive View of Vietnam and the World,VS215_Fall2022_S01,30,Nguyen Thanh Trung,E1 E2,On-campus
+Sources for Vietnamese and Southeast Asian History,VS303_Fall2022_S01,30,Nicolas Weber,C1 C2,On-campus

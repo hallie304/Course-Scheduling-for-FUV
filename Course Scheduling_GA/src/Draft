@@ -1,0 +1,18 @@
+       List<String> dateSet1 = new ArrayList<String>();
+//        dateSet1.add("Mon");
+//        dateSet1.add("Wed");
+//
+//        List<String> dateSet2 = new ArrayList<String>();
+//        dateSet2.add("Wed");
+//        dateSet2.add("Fri");
+//;
+//        List<String> dateSet3 = new ArrayList<String>();
+//        dateSet3.add("Tue");
+//
+//        List<String> dateSet4 = new ArrayList<String>();
+//        dateSet4.add("Mon");
+//
+//        ClassTime classTime1 = new ClassTime(dateSet1, "9:45", "11:15");
+//        ClassTime classTime2 = new ClassTime(dateSet2, "9:45", "11:15");
+//        ClassTime classTime3 = new ClassTime(dateSet4, "9:00", "12:00");
+//        ClassTime classTime4 = new ClassTime(dateSet4, "8:00", "11:00");

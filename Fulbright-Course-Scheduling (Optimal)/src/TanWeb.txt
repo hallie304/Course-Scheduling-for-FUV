@@ -1,0 +1,25 @@
+
+        List<TanData> tanDataList = new ArrayList<TanData>();
+        for(int i = 0; i < answerSpace.size(); i++) {
+            Course currentCourse = answerSpace.get(i).getCourse();
+            Slot currentSlot = answerSpace.get(i).getSlot();
+
+            for(int j = 0; j < currentCourse.getFacultyName().size(); j++) {
+                String courseId = currentCourse.getCourseId();
+                String courseName = currentCourse.getCourseName();
+                int capacity = currentCourse.getCapacity();
+                String instructor = currentCourse.getFacultyName().get(j);
+                boolean isOnline = currentCourse.isOnline();
+                String classroom = currentSlot.getRoom().getClassroom();
+                int clrCapacity = currentSlot.getRoom().getCapacity();
+
+                String time = "";
+                for(int k = 0; k < currentSlot.getTime().getDate().size(); k++) {
+                    time += currentSlot.getTime().getDate().get(k) + "*";
+                }
+
+                time += currentSlot.getTime().getStartTime() + "*" + currentSlot.getTime().getEndTime();
+                TanData tan = new TanData(courseId, courseName, instructor, capacity, isOnline, classroom, clrCapacity, time);
+                tanDataList.add(tan);
+            }
+        }
